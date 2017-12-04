@@ -6,7 +6,7 @@
 		[
 			{"name":"source", "type":["null", "string"]},
 			{"name":"message", "type":["null", "string"]},
-            {"name":"severity", "type":["null", "string"]},
+      {"name":"severity", "type":["null", "string"]},
 			{"name":"timestamp", "type":["null", "string"]}
 		]
 }
